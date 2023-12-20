@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crypto-tracker-challenge/static/js/main.1c23ff6d.js",
+    "index.html": "/crypto-tracker-challenge/index.html",
+    "main.1c23ff6d.js.map": "/crypto-tracker-challenge/static/js/main.1c23ff6d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1c23ff6d.js"
+  ]
+}
